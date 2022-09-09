@@ -1,4 +1,6 @@
 ## Olá, mund... Olá, sou o Leonardo!
+[ Estudante de Análise e Desenvolvimento de Sistemas ]
+
 - 👾 Arranhando um código em:
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
