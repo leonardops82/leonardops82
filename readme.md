@@ -1,5 +1,9 @@
 ## Olá, mund... Olá, sou o Leonardo!
-- 👾 Voltando a programar.
+- 👾 Arranhando um código em:
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
+</div>
 - 🤓 Estudando:
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
